@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vkiranmaniya&label=Profile%20views&color=0e75b6&style=flat" alt="vkiranmaniya" /> </p>
-Hi, i'm Kiran Maniya, a passionate and self-taught full stack web/mobile developer. I'm a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the code i write. I help organizations to build the foundations, improve the development pipeline, adoptation of agile methodology and much more. Over the past 8 years, I have been working in javascript and php most of the part.
+Hi, i'm Kiran Maniya, a passionate and self-taught full stack web/mobile developer. I'm a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the code i write. I help organizations to build the foundations, improve the development pipeline, adoptation of agile methodology and much more. Over the past 8 years, I have been working in javascript and php most of the part. I plan and build systems that scales easily, ready to reach the market.
 
 
 - 📫 Feel free to reach me at **vkiranmaniya@gmail.com**
